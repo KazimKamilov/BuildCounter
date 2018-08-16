@@ -9,7 +9,7 @@ The program is licensed under the zlib/libpng.
 Uses C++03 and STL.
 
 # Parameters list
-'-help' - Print this info.
+'-help' - Print this info.\n
 '-name' - Sets project name.
 '-major' - Manually sets major version.
 '-minor' - Manually sets minor version.
