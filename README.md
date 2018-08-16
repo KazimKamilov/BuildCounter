@@ -8,6 +8,17 @@ The program is licensed under the zlib/libpng.
 
 Uses C++03 and STL.
 
+# Parameters list
+'-help' - Print this info.
+'-name' - Sets project name.
+'-major' - Manually sets major version.
+'-minor' - Manually sets minor version.
+'-patch' - Manually sets patch version.
+'-build' - Manually sets build version.
+'-major++' - Increments major version.
+'-minor++' - Increments minor version.
+'-patch++' - Increments patch version.
+'-build++' - Increments build version.
 
 Always specify the project name as a parameter '-name'.
 
