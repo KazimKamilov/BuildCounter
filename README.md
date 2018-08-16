@@ -13,7 +13,11 @@ Always specify the project name as a parameter '-name'.
 
 # Examples
 This example sets all version numbers
+```c++
 BuildCounter -name test -major 1 -minor 3 -patch 74 -build 4627
+```
 
 In this example, when you run the program, the number of build will be increased by 1.
+```c++
 BuildCounter -name HelloWorld -build++
+```
