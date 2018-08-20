@@ -2,7 +2,7 @@
 Console program for counting versions of program builds.
 
 The program creates a file with a version number that can be changed
-through pre-.exepost build events in Visual Studio, for example.
+through pre/post build events in Visual Studio, for example.
 
 The program is licensed under the zlib/libpng.
 
